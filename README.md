@@ -1,3 +1,5 @@
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Also [JavaScript Standard Style](https://standardjs.com/) and [Material-UI](https://material-ui.com/) are applied.
 
 ## Available Scripts
